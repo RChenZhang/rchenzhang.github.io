@@ -1,45 +1,35 @@
 ---
 layout: default
 ---
-# Ryan Chen Zhang
+# Ryan Zhang
 ## About Me
+I am currently an 8th grader at [T.H Rogers](https://www.houstonisd.org/rogersms).
 
-I am currently a Principal Application Systems Analyst in the department of Oncology Care & RI Systems at MD Anderson Cancer Center in Houston, TX. I am the technical lead of the Tumor Measurement Initiative (TMI) of [the Institute for Data Science in Oncology (IDSO)](https://www.mdanderson.org/research/departments-labs-institutes/institutes/institute-for-data-science-in-oncology.html). The goal for TMI is to build an institutional framework that supports standardized, automated, quantitative, imaging-based tumor measurements across each patient’s treatment to reduce uncertainty in determining tumor progression and empower physicians to adapt treatments more quickly, if needed. 
+## Activities
 
-I earned my Ph.D. in biomedical engineering (BME) at City University of New York (CCNY) in 2009, specializing in biomedical image processing, signal processing, software design & integration, and AI/ML.
+*   Math Club
+*   MathCounts
+*   AMC 8
+*   Swim Team
+*   Cross Country
+*   Track & Field
+*   SEFH & TXSEF
 
-## Specialties
+## Accolades
 
-*   Biomedical image segmentation
-*   AI/ML/Deep learning
-*   Scientific computing
-*   Optimization
-*   Automation
-*   Platform integration
+I have earned various different accolades in and outside of school, including sports:
 
-## Experience
+ - Part of the school swim team and was part of the relay team that brought the school to district champions.
+ - Part of the school cross country team and were the district champions.
+ - Part of the school Track & Field team where I competed in hurdles, long jump, high jump, and the 4x200m relay team. We were district champions and I earned the Most Dedicated Runner award.
 
-<span><img src="https://media.licdn.com/dms/image/D560BAQEtcUd-KF909g/company-logo_200_200/0/1708463593072/mdandersoncancercenter_logo?e=1721260800&v=beta&t=UYo5tL53mMnaJFBtxxU5zul0afZ6VFDVdrXwOzmfcL4" alt="MD Anderson" width="20"/> Principal Application Systems Analyst, MD Anderson Cancer Center,</span> <span>Jul 2021 -- Present</span>
+I have also earned various different academic accolades in and outside of school:
 
-Designing and managing the process of building automated image interpretation tools and the extraction of tumor measurements to fulfil the TMI (Tumor Measurement Initiative) objective
-
- - Served as Tumor Measurement Initiative (TMI) automation lead to build an institutional platform to support standardized, automated, quantitative imaging-based tumor measurement across each patient’s journey to advance multidisciplinary, data-driven, high precision cancer treatment.
- - Designing and managing the process of building automated image interpretation tools and the extraction of tumor measurements.
- - Working with internal and external teams that are developing specific image analysis algorithms and coordinating these developments in a fashion that supports scientific/technical evaluation and integration into the broader TMI effort.
- - Participating in developing institutional machine learning model management solutions and serving as the imaging technical subject matter expert.
- - Collaborating with researchers and clinicians working on healthcare information systems (e.g., EPIC, PACS, RayStation, etc.) in the capture and curation of multidimensional data and developing computational modeling approaches for medical imaging.
- - Participating in the coordination of machine learning model management from development to clinical deployment. 
- - Managing the data scientist team and ensure the alignment with the overall priority.
-
-<span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Senior Biomedical Product Engineer, Evoke Neuroscience,</span> <span>Feb 2020 -- Jul 2021</span>
-
-<span><img src="https://media.licdn.com/dms/image/C560BAQGYAA3rdVyR3g/company-logo_200_200/0/1633619117229/evoke_neuroscience_logo?e=1721260800&v=beta&t=0_ApQ-0RLu_ZNSdeH5uW6vkBRNSwtUTFny_KfPfFkX0" alt="Evoke" width="20"/> Biomedical Software Engineer, Evoke Neuroscience,</span> <span>Mar 2012 -- Feb 2020</span>
-
-Manage technical and engineering projects; Medical Device software development and integration of cloud-based analytics platform
- - Launched flagship product that generated $2 million annual revenue and earned company a spot on Inc. 500 Fastest-Growing Private Companies.
- - Led software development and integration of cloud-based analytics platform.
- - Served as technical and scientific executive and working closely with Director of IT.
- - Participated in the preparation and maintenance of FDA regulated software design documentations that earned company 510(k) approval for its medical device, the eVox®.
+ - Participated in the school Math club.
+ - Selected to the 12-member school MathCounts team.
+ - Participated in AMC 8, 10, and 12 two years in a row.
+ - Participated in SEFH (Science and Engineering Fair of Houston) where I earned 2nd in my category.
+ - Participated in TXSEF (Texas Science and Engineering Fair) where I earned 3rd in my category.
 
 ## Journal Publications
 - Satrajit Chakrabarty, Syed Amaan Abidi, Mina Mousa, Mahati Mokkarala, Isabelle Hren, Divya Yadav, Matthew Kelsey, Pamela LaMontagne, John Wood, Michael Adams, **Yuzhuo Su**, Sherry Thorpe, Caroline Chung, Aristeidis Sotiras, Daniel S. Marcus, "Integrative Imaging Informatics for Cancer Research: Workflow Automation for Neuro-oncology (I3CR-WANO)." JCO Clinical Cancer Informatics, no. 7, e2200177, 2023. 
