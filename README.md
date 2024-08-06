@@ -1,4 +1,4 @@
-# Syzsuzy's Personal Website
+# RChenZhang's Personal Website
 
 This is the repository where I host my personal website from. This website was built using the Leap day template.
 
