@@ -14,6 +14,8 @@ I am currently an 8th grader at [T.H Rogers](https://www.houstonisd.org/rogersms
 *   Cross Country
 *   Track & Field
 *   SEFH & TXSEF
+*   Piano
+*   NJHS
 
 ## Accolades
 
