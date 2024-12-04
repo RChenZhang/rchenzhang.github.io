@@ -32,3 +32,5 @@ I have also earned various different academic accolades in and outside of school
  - Participated in AMC 8, 10, and 12 two years in a row.
  - Participated in SEFH (Science and Engineering Fair of Houston) where I earned 2nd in my category.
  - Participated in TXSEF (Texas Science and Engineering Fair) where I earned 3rd in my category.
+ - Won 2024 Science & Engineering Fair Houston Energy Day Academic Program (EDAP) Award.
+ - Completed the Grade 8 piano exam through the ABRSM (Associated Board of the Royal Schools of Music).
