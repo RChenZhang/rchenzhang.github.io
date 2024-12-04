@@ -34,3 +34,11 @@ I have also earned various different academic accolades in and outside of school
  - Participated in TXSEF (Texas Science and Engineering Fair) where I earned 3rd in my category.
  - Won 2024 Science & Engineering Fair Houston Energy Day Academic Program (EDAP) Award.
  - Completed the Grade 8 piano exam through the ABRSM (Associated Board of the Royal Schools of Music).
+
+## Interests
+
+Beyond the sports I participate in, I have a strong interest in other sports like basketball, football, and baseball. 
+
+I have a deep passion for piano and have been playing since I was five, which means I've been practicing for almost nine years now. I participated in the ABRSM (Associated Board of the Royal Schools of Music) exams, an internationally recognized program that assesses musicianship in various instruments, including piano. The ABRSM has eight levels, each requiring both performance (scales, arpeggios, and pieces) and theory exams to advance. Starting at age five, I worked through each grade and successfully completed all eight levels. Now, I play primarily for enjoyment and look forward to performing in recitals across the country.
+
+Additionally, I’m passionate about teaching. My science fair team and I initiated a project to help guide middle school students in preparing their own science fair projects. https://brainboyz.vercel.app/ 
