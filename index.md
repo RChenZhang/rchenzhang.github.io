@@ -7,25 +7,34 @@ I am currently an 8th grader at [T.H Rogers](https://www.houstonisd.org/rogersms
 
 ## Activities
 
-*   Math Club
-*   MathCounts
-*   AMC 8
-*   Swim Team
-*   Cross Country
-*   Track & Field
-*   SEFH & TXSEF
-*   Piano
-*   NJHS
+### Academic Achievements
+- **PSAT**: 1410
+- **STARR**: Masters grade level for reading, mathematics, and science.
+- **Math Club**: Participated in various math competitions.
+- **MathCounts**: Selected as part of the team.
+- **AMC 8, 10, and 12**: Competed in prestigious mathematics contests.
+
+### Athletics
+- **Swim Team**: Represented the school in competitive swimming.
+- **Cross Country**: Contributed to team victories in long-distance running events.
+- **Track & Field**: Contributed to winning district champions.
+
+### STEM & Leadership
+- **SEFH & TXSEF**: Earned awards at Science and Engineering Fairs.
+- **President of NJHS**: Led initiatives for the National Junior Honor Society at TH Rogers.
+
+### Arts
+- **Piano**: Achieved Grade 8 certification through ABRSM.
 
 ## Accolades
 
-I have earned various different accolades in and outside of school, including sports:
+I have earned various different accolades in and outside of school, including **sports**:
 
  - Part of the school swim team and was part of the relay team that brought the school to district champions.
  - Part of the school cross country team and were the district champions.
  - Part of the school Track & Field team where I competed in hurdles, long jump, high jump, and the 4x200m relay team. We were district champions and I earned the Most Dedicated Runner award.
 
-I have also earned various different academic accolades in and outside of school:
+I have also earned various different **academic** accolades in and outside of school:
 
  - Participated in the school Math club.
  - Selected to the 12-member school MathCounts team.
@@ -42,3 +51,5 @@ Beyond the sports I participate in, I have a strong interest in other sports lik
 I have a deep passion for piano and have been playing since I was five, which means I've been practicing for almost nine years now. I participated in the ABRSM (Associated Board of the Royal Schools of Music) exams, an internationally recognized program that assesses musicianship in various instruments, including piano. The ABRSM has eight levels, each requiring both performance (scales, arpeggios, and pieces) and theory exams to advance. Starting at age five, I worked through each grade and successfully completed all eight levels. Now, I play primarily for enjoyment and look forward to performing in recitals across the country.
 
 Additionally, I’m passionate about teaching. My science fair team and I initiated a project to help guide middle school students in preparing their own science fair projects. https://brainboyz.vercel.app/ 
+
+I actively engage in leadership opportunities. Serving as the president of NJHS at T.H. Rogers allowed me to contribute to society meaningfully while leading the team to enhance its service to the community.
