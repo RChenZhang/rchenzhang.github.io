@@ -3,7 +3,7 @@ layout: default
 ---
 # Ryan Chen Zhang
 ## About Me
-I am currently an 8th grader at [T.H Rogers](https://www.houstonisd.org/rogersms).
+I am currently an 8th grader at [T.H. Rogers](https://www.houstonisd.org/rogersms).
 
 ## Activities
 
