@@ -7,8 +7,13 @@ I am currently an 8th grader at [T.H. Rogers](https://www.houstonisd.org/rogersm
 
 ## Activities
 
+### STEM & Leadership
+- **SEFH & TXSEF**: Earned awards at Science and Engineering Fairs (2nd place at SEFH and 3rd place at TXSEF).
+- **President of NJHS**: Led initiatives for the National Junior Honor Society at TH Rogers.
+- **Captain of Mathcount team**: Led the Mathcounts team, coordinating practice sessions, fostering teamwork, and representing the team in competitions at TH Rogers.
+
 ### Academic Achievements
-- **PSAT**: 1410
+- **PSAT score in 8th grade**: 1410
 - **STARR**: Masters grade level for reading, mathematics, and science.
 - **Math Club**: Participated in various math competitions.
 - **MathCounts**: Selected as part of the team.
@@ -18,10 +23,6 @@ I am currently an 8th grader at [T.H. Rogers](https://www.houstonisd.org/rogersm
 - **Swim Team**: Represented the school in competitive swimming.
 - **Cross Country**: Contributed to team victories in long-distance running events.
 - **Track & Field**: Contributed to winning district champions.
-
-### STEM & Leadership
-- **SEFH & TXSEF**: Earned awards at Science and Engineering Fairs.
-- **President of NJHS**: Led initiatives for the National Junior Honor Society at TH Rogers.
 
 ### Arts
 - **Piano**: Achieved Grade 8 certification through ABRSM.
@@ -52,4 +53,4 @@ I have a deep passion for piano and have been playing since I was five, which me
 
 Additionally, I’m passionate about teaching. My science fair team and I initiated a project to help guide middle school students in preparing their own science fair projects. https://brainboyz.vercel.app/ 
 
-I actively engage in leadership opportunities. Serving as the president of NJHS at T.H. Rogers allowed me to contribute to society meaningfully while leading the team to enhance its service to the community.
+I actively engage in leadership opportunities. As president of NJHS at T.H. Rogers, I contributed meaningfully to society while guiding the team to expand its community service efforts. Additionally, as captain of the Mathcounts team, I led practices, motivated my peers, and helped drive our success in competitions. These roles have strengthened my leadership skills and deepened my commitment to giving back to the community.
