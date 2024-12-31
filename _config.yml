@@ -3,3 +3,5 @@ description: 8th-grade student at T.H. Rogers School of Houston
 #show_downloads: true
 google_analytics:
 theme: jekyll-theme-leap-day
+# Image configurations
+header_image: /images/avator.jpg  # A logo or header image
