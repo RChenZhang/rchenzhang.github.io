@@ -10,3 +10,11 @@
   max-width: 30%;  // Optional: Adjust the width of the image
   height: auto;  // Maintain aspect ratio
 }
+
+/* If you want to float the logo in the header to the right */
+.header-logo {
+  float: right;
+  max-width: 150px;
+  height: auto;
+  margin-left: 20px;
+}
