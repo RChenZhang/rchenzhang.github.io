@@ -11,3 +11,11 @@
   border-radius: 50%;
   border: 2px solid #ddd;  /* Optional border */
 }
+
+.right-image {
+  float: right;  // Positions the image on the right
+  margin-left: 20px;  // Adds some space between the image and the content
+  margin-bottom: 20px;  // Adds space at the bottom to prevent content from touching the image
+  max-width: 30%;  // Optional: Adjust the width of the image
+  height: auto;  // Maintain aspect ratio
+}
