@@ -44,6 +44,8 @@ I have also earned various different **academic** accolades in and outside of sc
  - Participated in TXSEF (Texas Science and Engineering Fair) where I earned 3rd in my category.
  - Won 2024 Science & Engineering Fair Houston Energy Day Academic Program (EDAP) Award.
  - Completed the Grade 8 piano exam through the ABRSM (Associated Board of the Royal Schools of Music).
+ - Part of my school's Theater UIL team where we placed 4th in our District.
+ - Led the TH Rogers Mathcounts team to their first State competition in school history after placing 5th in our Chapter.
 
 ## Interests
 
